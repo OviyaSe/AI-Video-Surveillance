@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+
+#start,#number_of_objects,#status{
+    font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: cornflowerblue;
+    bottom: 0;
+    width: 100%;
+    background-color: darkcyan;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid salmon;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: silver;
+}
